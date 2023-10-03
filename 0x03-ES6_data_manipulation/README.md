@@ -1,5 +1,5 @@
+# ES6 data manipulation
 
-<<<<<<< HEAD
 # Resources
 # Read or watch:
 
