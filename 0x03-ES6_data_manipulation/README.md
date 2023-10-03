@@ -1,5 +1,5 @@
-# ES6 data manipulation
 
+<<<<<<< HEAD
 # Resources
 # Read or watch:
 
@@ -322,3 +322,5 @@ bob@dylan:~$ npm run dev 100-main.js
     throw new Error('Endpoint load is high');
    ...
 bob@dylan:~$  
+=======
+>>>>>>> 884a27c9822fb1def744703317021f81ae991594
