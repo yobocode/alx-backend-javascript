@@ -33,7 +33,8 @@ bob@dylan:~$ npm run dev 0-main.js
 ]
 bob@dylan:~$ 
 
-+ [x] 1\. More mapping!<br/>Create a function `getListStudentId`s that returns an array of ids from a list of object.
++ [x] 1. More mapping!
+Create a function `getListStudentId`s that returns an array of ids from a list of object.
 
 This function is taking one argument which is an array of objects - and this array is the same format as `getListStudents` from the previous task.
 
