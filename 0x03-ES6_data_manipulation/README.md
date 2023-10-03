@@ -16,7 +16,8 @@
 * `Guillaume`, id: `1`, in `San Francisco`
 * `James`, id: `2`, in `Columbia`
 * `Serena`, id: `5`, in `San Francisco`
- __Example__:
+
+__Example__:
   ```c
 bob@dylan:~$ cat 0-main.js
 import getListStudents from "./0-get_list_students.js";
