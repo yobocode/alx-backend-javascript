@@ -17,25 +17,25 @@
 * `James`, id: `2`, in `Columbia`
 * `Serena`, id: `5`, in `San Francisco`
 
-__Example__:
+ __Example__:
   ```c
-bob@dylan:~$ cat 0-main.js
-import getListStudents from "./0-get_list_students.js";
+ bob@dylan:~$ cat 0-main.js
+ import getListStudents from "./0-get_list_students.js";
 
-console.log(getListStudents());
+ console.log(getListStudents());
 
-bob@dylan:~$ 
-bob@dylan:~$ npm run dev 0-main.js 
-[
-  { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
-  { id: 2, firstName: 'James', location: 'Columbia' },
-  { id: 5, firstName: 'Serena', location: 'San Francisco' }
-]
-bob@dylan:~$ 
+ bob@dylan:~$ 
+ bob@dylan:~$ npm run dev 0-main.js 
+ [
+   { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
+   { id: 2, firstName: 'James', location: 'Columbia' },
+   { id: 5, firstName: 'Serena', location: 'San Francisco' }
+ ]
+ bob@dylan:~$ 
 
 + [x] 1. More mapping!
-* Create a function `getListStudentId`s that returns an array of ids from a list of object. 
-* This function is taking one argument which is an array of objects - and this array is the same format as `getListStudents` from the previous task. If the argument is not an array, the function is returning an empty array.You must use the `map` function on the array.
+Create a function `getListStudentId`s that returns an array of ids from a list of object. 
+This function is taking one argument which is an array of objects - and this array is the same format as `getListStudents` from the previous task. If the argument is not an array, the function is returning an empty array.You must use the `map` function on the array.
  __Example__:
   ```c
 bob@dylan:~$ cat 1-main.js
