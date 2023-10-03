@@ -5,7 +5,7 @@
  * firstName: String,
  * location: String
  * }[]} students - The list of students
- * @author Bekalu Geta <https://github.com/yobocode>
+ * @author Yibrah Teare <https://github.com/yobocode>
  * @returns An array of student ids
  */
 export default function getListStudentsIds(students) {
